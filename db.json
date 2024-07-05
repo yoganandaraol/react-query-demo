@@ -1,0 +1,22 @@
+{
+    "superheroes": [
+        {
+            "id": 1,
+            "name": "Batman",
+            "alterEgo": "Bruce Wayne",
+            "photo": "https://hips.hearstapps.com/cos.h-cdn.co/assets/cm/14/25/53a114369c049_-_cos-01-frozen-88vvmn-de.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Superman",
+            "alterEgo": "Clark Kent",
+            "photo": "https://i.pinimg.com/736x/73/99/91/7399917a057708c12325f267051b284a.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Wonder Woman",
+            "alterEgo": "Princess Diana",
+            "photo": "https://www.creativefabrica.com/wp-content/uploads/2022/11/13/Hyper-Realistic-Disney-Frozen-Princess-Anna-In-Snowy-Forest-46332178-1.png"
+        }
+    ]
+}
